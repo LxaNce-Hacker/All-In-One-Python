@@ -1,4 +1,6 @@
-![Free Python Books project logo](https://github.com/pamoroso/free-python-books/blob/master/free-python-books-logo.jpg)
+![Free Python Books project logo](https://user-images.githubusercontent.com/96795383/152211283-ef0bda22-3c06-4d6c-a1bc-28957ae0f151.gif)
+
+
 
 # Free Python Books
 
